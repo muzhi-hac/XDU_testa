@@ -1,0 +1,9 @@
+[package]
+name = "arduino_rust"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+egui = "0.22"
+eframe = "0.22"
+serialport = "4.0.1"
